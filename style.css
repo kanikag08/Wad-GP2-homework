@@ -1,0 +1,42 @@
+h1
+{
+    background-color:rgb(241, 241, 184);
+    text-align: center;
+    text-decoration: double;
+    width:1300px;
+    font-family:  sans-serif;
+}
+img
+{
+    image-resolution:initial;
+}
+p
+{
+    text-align: center;
+    font-family: 'Arial Narrow Bold';
+    background-color: ivory;
+}
+body
+{
+    background-color:darksalmon;
+}
+#head
+{
+    font-size: 80px;
+}
+img
+{
+    border-style: solid;
+    border-color: beige;
+}
+.quote
+{
+    text-align: center;
+    border-style: double;
+    width: 1200px;
+    background-color:yellowgreen;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius:30px;         
+                  
+}
