@@ -1,1 +1,1 @@
-# Wad-GP2-homework
+# webpagee as a sample
